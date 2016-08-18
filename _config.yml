@@ -12,4 +12,8 @@ color:
     - '#7FC6BC'
 layout_spectrum: 0.8098229244351387
 name: re!cities
+navigation:
+  - name: Re!magining Cities Facebook Page
+    url: 'https://www.facebook.com/Re-Imagining-Cities-Foundation-657526344368550/'
+    type: external
 title: Building Awareness
